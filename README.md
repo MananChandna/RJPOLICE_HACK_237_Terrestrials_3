@@ -66,6 +66,9 @@ Real-time Decision Making: The AI operates in real-time, ensuring quick response
 </body>
 </html>
 
+![image](https://github.com/MananChandna/RJPOLICE_HACK_237_Terrestrials_3/assets/139998502/6084af5b-0620-4483-9bbd-c568a134fe81)
+
+
 
 
 
