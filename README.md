@@ -1,5 +1,3 @@
-<img src="https://dribbble.com/shots/9509904-AI-ROBOT-YOYO/attachments/1535510?mode=media" alt="Cipher_Shield-Innovators">
-
 
 # RJPOLICE_HACK_237_Terrestrials_3
 Smart Camera Decision Making AI
