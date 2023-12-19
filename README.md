@@ -3,6 +3,9 @@
 Smart Camera Decision Making AI
 
 
+![image](https://github.com/MananChandna/RJPOLICE_HACK_237_Terrestrials_3/assets/139998502/01e5a227-f678-4967-90fc-b90ba02f91e2)
+
+
 Overview
 Welcome to the Smart Camera Decision Making AI repository! This project focuses on enhancing the capabilities of smart cameras by incorporating artificial intelligence for intelligent decision-making. The AI model is designed to analyze camera feeds and make informed decisions based on predefined criteria.
 
