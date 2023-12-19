@@ -26,3 +26,48 @@ Real-time Decision Making: The AI operates in real-time, ensuring quick response
   <a href="http://linkedin.com/in/manan-chandna-697588257/" target="_blank">LinkedIn Profile</a>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Rishabh raj</h1>
+  <p>Artificial intelligence Student</p>
+  <a href="http://linkedin.com/in/rishabh-raj-8b049a25a/" target="_blank">LinkedIn Profile</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Abhinav Pradeep</h1>
+  <p>Artificial intelligence Student</p>
+  <a href="http://linkedin.com/in/abhinav-pradeep-026b1826a/" target="_blank">LinkedIn Profile</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Gungun Vyas</h1>
+  <p>Artificial intelligence Student</p>
+  <a href="http://linkedin.com/in/gungun-vyas-215991290/" target="_blank">LinkedIn Profile</a>
+</body>
+</html>
+
+
+
+
+
+
