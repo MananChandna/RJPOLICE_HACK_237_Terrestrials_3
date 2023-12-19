@@ -1,8 +1,4 @@
-<!-- GitHub README HTML -->
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1541964/screenshots/9509904/media/53faa26cd6a68277e5e4d5b4252ea774.gif" alt="Your GIF Description">
-</p>
+<img src="https://dribbble.com/shots/9509904-AI-ROBOT-YOYO/attachments/1535510?mode=media" alt="Cipher_Shield-Innovators">
 
 
 # RJPOLICE_HACK_237_Terrestrials_3
