@@ -1,0 +1,27 @@
+
+
+# Core Libraries
+numpy==1.21.1
+opencv-python==4.5.2
+tensorflow==2.5.0
+
+# Machine Learning
+scikit-learn==0.24.2
+scipy==1.7.0
+
+# Deep Learning Models
+torch==1.9.0
+torchvision==0.10.0
+
+# Web Framework (if applicable)
+flask==2.0.1
+
+# Docker Support
+docker==5.0.0
+
+# Additional Dependencies
+# Add any other dependencies specific to your project here
+
+# Development and Testing
+pytest==6.2.4
+flake8==3.9.2
